@@ -32,3 +32,13 @@ Compared multiple ML alogirthms and found that Random Forest Classifier was best
 3. Machine Learning model used: Random Forest Classifier
 4. Frameworks and library used: numpy, pandas, sklearn, joblib, geopy
 5. API used: openweathermap
+
+
+## Social and Economic Effect
+1. Predicting the air quality can help people decide their life style
+2. This can help the government to take required steps
+3. They can study the pattern of change of air quality over time to take proper initiatives
+
+## Future Work
+Due to the lack of time because we had mid-terms exam we were not able to make more of it. After exams we can add multiple features to it. 
+We will use Intel Tech for development instead of the used ones. 
