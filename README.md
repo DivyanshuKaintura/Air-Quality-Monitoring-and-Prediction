@@ -39,8 +39,4 @@ Compared multiple ML alogirthms and found that Random Forest Classifier was best
 2. This can help the government to take required steps
 3. They can study the pattern of change of air quality over time to take proper initiatives
 
-## Future Work
-Due to the lack of time because we had mid-terms exam we were not able to make more of it. After exams we can add multiple features to it. 
-We will use Intel Tech for development instead of the used ones. 
 
-we have been part of other national hackathons and last month we are ranked 4th in the Fetch.ai Agent Hackathon at IIT Guwahati, we have amazing developers among us. Please give us some time and we will make it worth it.
